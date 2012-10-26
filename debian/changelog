@@ -1,3 +1,9 @@
+mbsebbs (0.92.0+111209-1ppa1~precise1) precise; urgency=low
+
+  * Release v0.92.0+111209 (v0.95.14) for Ubuntu v12.04 (precise).
+
+ -- Robert James Clay <jame@rocasa.us>  Thu, 25 Oct 2012 23:26:19 -0400
+
 mbsebbs (0.92.0+111209-1) experimental; urgency=low
 
   * Set debhelper version as 7 in debian/compat.
